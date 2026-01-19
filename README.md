@@ -19,10 +19,6 @@ Library starting with LibCompression but now contains other utilities including:
     -- efficiently pack/unpack arrays of various types
 
 
-this repo started with the statement:
-
-`compress the shit out of a bytes array. in this case "shit" is "zeros".`
-
 not audited. use at your own risk.
 
 Support my work on this library by donating ETH or other coins to
